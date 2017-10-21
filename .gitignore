@@ -16,3 +16,4 @@ dist/
 mdui.css
 mdui.js
 owllook.env
+*.out
