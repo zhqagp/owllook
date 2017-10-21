@@ -1,0 +1,220 @@
+2017-10-21 10:45:43,415 WARNING aiocache.log(13) | cPickle module not found, using pickle
+2017-10-21 10:45:44 - (sanic)[DEBUG]: 
+                 ▄▄▄▄▄
+        ▀▀▀██████▄▄▄       _______________
+      ▄▄▄▄▄  █████████▄  /                 \
+     ▀▀▀▀█████▌ ▀▐▄ ▀▐█ |   Gotta go fast!  |
+   ▀▀█████▄▄ ▀██████▄██ | _________________/
+   ▀▄▄▄▄▄  ▀▀█▄▀█════█▀ |/
+        ▀▀▀▄  ▀▀███ ▀       ▄▄
+     ▄███▀▀██▄████████▄ ▄▀▀▀▀▀▀█▌
+   ██▀▄▄▄██▀▄███▀ ▀▀████      ▄██
+▄▀▀▀▄██▄▀▀▌████▒▒▒▒▒▒███     ▌▄▄▀
+▌    ▐▀████▐███▒▒▒▒▒▐██▌
+▀▄▄▄▄▀   ▀▀████▒▒▒▒▄██▀
+          ▀▀█████████▀
+        ▄▄██▀██████▀█
+      ▄██▀     ▀▀▀  █
+     ▄█             ▐▌
+ ▄▄▄▄█▌              ▀█▄▄▄▄▀▀▄
+▌     ▐                ▀▀▄▄▄▀
+ ▀▀▄▄▀
+
+2017-10-21 10:45:44,097 DEBUG sanic(734) | 
+                 ▄▄▄▄▄
+        ▀▀▀██████▄▄▄       _______________
+      ▄▄▄▄▄  █████████▄  /                 \
+     ▀▀▀▀█████▌ ▀▐▄ ▀▐█ |   Gotta go fast!  |
+   ▀▀█████▄▄ ▀██████▄██ | _________________/
+   ▀▄▄▄▄▄  ▀▀█▄▀█════█▀ |/
+        ▀▀▀▄  ▀▀███ ▀       ▄▄
+     ▄███▀▀██▄████████▄ ▄▀▀▀▀▀▀█▌
+   ██▀▄▄▄██▀▄███▀ ▀▀████      ▄██
+▄▀▀▀▄██▄▀▀▌████▒▒▒▒▒▒███     ▌▄▄▀
+▌    ▐▀████▐███▒▒▒▒▒▐██▌
+▀▄▄▄▄▀   ▀▀████▒▒▒▒▄██▀
+          ▀▀█████████▀
+        ▄▄██▀██████▀█
+      ▄██▀     ▀▀▀  █
+     ▄█             ▐▌
+ ▄▄▄▄█▌              ▀█▄▄▄▄▀▀▄
+▌     ▐                ▀▀▄▄▄▀
+ ▀▀▄▄▀
+
+2017-10-21 10:45:44 - (sanic)[INFO]: Goin' Fast @ http://127.0.0.1:8001
+2017-10-21 10:45:44,097 INFO sanic(744) | Goin' Fast @ http://127.0.0.1:8001
+2017-10-21 10:45:44,099 INFO root(32) | Starting aiocache
+2017-10-21 10:45:44,099 INFO root(43) | Starting redis pool
+2017-10-21 10:45:44 - (sanic)[INFO]: Starting worker [28176]
+2017-10-21 10:45:44,101 INFO sanic(526) | Starting worker [28176]
+2017-10-21 10:46:55 - (network)[INFO][127.0.0.1:64928]: GET http://book.yysea.com/  302 0
+2017-10-21 10:46:55,141 INFO network(256) | 
+2017-10-21 10:47:13 - (network)[INFO][127.0.0.1:64942]: GET http://book.yysea.com/  302 0
+2017-10-21 10:47:13,595 INFO network(256) | 
+2017-10-21 10:51:07 - (network)[INFO][127.0.0.1:65020]: GET http://book.yysea.com/  302 0
+2017-10-21 10:51:07,337 INFO network(256) | 
+2017-10-21 10:51:25 - (network)[INFO][127.0.0.1:65024]: GET http://book.yysea.com/  302 0
+2017-10-21 10:51:25,807 INFO network(256) | 
+2017-10-21 10:53:14 - (sanic)[INFO]: Stopping worker [28176]
+2017-10-21 10:53:14,516 INFO sanic(529) | Stopping worker [28176]
+2017-10-21 10:53:14 - (sanic)[INFO]: Server Stopped
+2017-10-21 10:53:14,517 INFO sanic(604) | Server Stopped
+2017-10-21 11:02:46,798 WARNING aiocache.log(13) | cPickle module not found, using pickle
+2017-10-21 11:02:47 - (sanic)[DEBUG]: 
+                 ▄▄▄▄▄
+        ▀▀▀██████▄▄▄       _______________
+      ▄▄▄▄▄  █████████▄  /                 \
+     ▀▀▀▀█████▌ ▀▐▄ ▀▐█ |   Gotta go fast!  |
+   ▀▀█████▄▄ ▀██████▄██ | _________________/
+   ▀▄▄▄▄▄  ▀▀█▄▀█════█▀ |/
+        ▀▀▀▄  ▀▀███ ▀       ▄▄
+     ▄███▀▀██▄████████▄ ▄▀▀▀▀▀▀█▌
+   ██▀▄▄▄██▀▄███▀ ▀▀████      ▄██
+▄▀▀▀▄██▄▀▀▌████▒▒▒▒▒▒███     ▌▄▄▀
+▌    ▐▀████▐███▒▒▒▒▒▐██▌
+▀▄▄▄▄▀   ▀▀████▒▒▒▒▄██▀
+          ▀▀█████████▀
+        ▄▄██▀██████▀█
+      ▄██▀     ▀▀▀  █
+     ▄█             ▐▌
+ ▄▄▄▄█▌              ▀█▄▄▄▄▀▀▄
+▌     ▐                ▀▀▄▄▄▀
+ ▀▀▄▄▀
+
+2017-10-21 11:02:47,549 DEBUG sanic(734) | 
+                 ▄▄▄▄▄
+        ▀▀▀██████▄▄▄       _______________
+      ▄▄▄▄▄  █████████▄  /                 \
+     ▀▀▀▀█████▌ ▀▐▄ ▀▐█ |   Gotta go fast!  |
+   ▀▀█████▄▄ ▀██████▄██ | _________________/
+   ▀▄▄▄▄▄  ▀▀█▄▀█════█▀ |/
+        ▀▀▀▄  ▀▀███ ▀       ▄▄
+     ▄███▀▀██▄████████▄ ▄▀▀▀▀▀▀█▌
+   ██▀▄▄▄██▀▄███▀ ▀▀████      ▄██
+▄▀▀▀▄██▄▀▀▌████▒▒▒▒▒▒███     ▌▄▄▀
+▌    ▐▀████▐███▒▒▒▒▒▐██▌
+▀▄▄▄▄▀   ▀▀████▒▒▒▒▄██▀
+          ▀▀█████████▀
+        ▄▄██▀██████▀█
+      ▄██▀     ▀▀▀  █
+     ▄█             ▐▌
+ ▄▄▄▄█▌              ▀█▄▄▄▄▀▀▄
+▌     ▐                ▀▀▄▄▄▀
+ ▀▀▄▄▀
+
+2017-10-21 11:02:47 - (sanic)[INFO]: Goin' Fast @ http://127.0.0.1:8001
+2017-10-21 11:02:47,550 INFO sanic(744) | Goin' Fast @ http://127.0.0.1:8001
+2017-10-21 11:02:47,551 INFO root(32) | Starting aiocache
+2017-10-21 11:02:47,551 INFO root(43) | Starting redis pool
+2017-10-21 11:02:47 - (sanic)[INFO]: Starting worker [28895]
+2017-10-21 11:02:47,553 INFO sanic(526) | Starting worker [28895]
+2017-10-21 11:23:18,480 INFO asyncio_redis(99) | Connecting to redis
+2017-10-21 11:23:18,486 INFO asyncio_redis(821) | Redis connection made
+2017-10-21 11:23:18,488 INFO asyncio_redis(99) | Connecting to redis
+2017-10-21 11:23:18,491 INFO asyncio_redis(821) | Redis connection made
+2017-10-21 11:23:18,491 INFO asyncio_redis(99) | Connecting to redis
+2017-10-21 11:23:18,494 INFO asyncio_redis(821) | Redis connection made
+2017-10-21 11:23:18,494 INFO asyncio_redis(99) | Connecting to redis
+2017-10-21 11:23:18,496 INFO asyncio_redis(821) | Redis connection made
+2017-10-21 11:23:18,497 INFO asyncio_redis(99) | Connecting to redis
+2017-10-21 11:23:18,499 INFO asyncio_redis(821) | Redis connection made
+2017-10-21 11:23:18,500 INFO asyncio_redis(99) | Connecting to redis
+2017-10-21 11:23:18,502 INFO asyncio_redis(821) | Redis connection made
+2017-10-21 11:23:18,502 INFO asyncio_redis(99) | Connecting to redis
+2017-10-21 11:23:18,504 INFO asyncio_redis(821) | Redis connection made
+2017-10-21 11:23:18,505 INFO asyncio_redis(99) | Connecting to redis
+2017-10-21 11:23:18,507 INFO asyncio_redis(821) | Redis connection made
+2017-10-21 11:23:18,507 INFO asyncio_redis(99) | Connecting to redis
+2017-10-21 11:23:18,510 INFO asyncio_redis(821) | Redis connection made
+2017-10-21 11:23:18,510 INFO asyncio_redis(99) | Connecting to redis
+2017-10-21 11:23:18,512 INFO asyncio_redis(821) | Redis connection made
+2017-10-21 11:23:19,255 INFO root(69) | Task url: http://www.qu.la/book/28847//book/28847/10573436.html
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1332]: GET http://book.yysea.com/owllook_content?url=http://www.qu.la/book/28847//book/28847/10573436.html&name=%E7%AC%AC196%E7%AB%A0%20%E6%82%B2%E5%A4%A9%E6%82%AF%E4%BA%BA%20%E4%B8%8A&chapter_url=http://www.qu.la/book/28847/&novels_name=%E8%80%81%E8%A1%B2%E8%A6%81%E8%BF%98%E4%BF%97  200 18559
+2017-10-21 11:23:19,450 INFO network(256) | 
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1364]: GET http://book.yysea.com/static/novels/css/main.css  304 0
+2017-10-21 11:23:19,495 INFO network(256) | 
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1366]: GET http://book.yysea.com/static/novels/css/content.css  304 0
+2017-10-21 11:23:19,495 INFO network(256) | 
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1368]: GET http://book.yysea.com/static/novels/js/main.js  304 0
+2017-10-21 11:23:19,507 INFO network(256) | 
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1372]: GET http://book.yysea.com/static/novels/js/content.js  304 0
+2017-10-21 11:23:19,518 INFO network(256) | 
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1370]: GET http://book.yysea.com/static/novels/js/theme.js  304 0
+2017-10-21 11:23:19,519 INFO network(256) | 
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1374]: GET http://book.yysea.com/static/novels/img/read_bg.png  304 0
+2017-10-21 11:23:19,632 INFO network(256) | 
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1378]: GET http://book.yysea.com/static/novels/img/left_bar_flag.png  304 0
+2017-10-21 11:23:19,633 INFO network(256) | 
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1376]: GET http://book.yysea.com/static/novels/img/read_content.png  304 0
+2017-10-21 11:23:19,634 INFO network(256) | 
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1380]: GET http://book.yysea.com/static/novels/img/bookMark.png  304 0
+2017-10-21 11:23:19,679 INFO network(256) | 
+2017-10-21 11:23:19 - (network)[INFO][127.0.0.1:1382]: GET http://book.yysea.com/static/novels/img/favicon.ico  200 99678
+2017-10-21 11:23:19,968 INFO network(256) | 
+2017-10-21 11:23:48 - (network)[INFO][127.0.0.1:1386]: GET http://book.yysea.com/owllook_content?url=http://www.qu.la/book/28847//book/28847/10573436.html&name=%E7%AC%AC196%E7%AB%A0%20%E6%82%B2%E5%A4%A9%E6%82%AF%E4%BA%BA%20%E4%B8%8A&chapter_url=http://www.qu.la/book/28847/&novels_name=%E8%80%81%E8%A1%B2%E8%A6%81%E8%BF%98%E4%BF%97  200 16915
+2017-10-21 11:23:48,195 INFO network(256) | 
+2017-10-21 11:23:48 - (network)[INFO][127.0.0.1:1388]: GET http://book.yysea.com/static/novels/css/main.css  200 2791
+2017-10-21 11:23:48,404 INFO network(256) | 
+2017-10-21 11:23:48 - (network)[INFO][127.0.0.1:1390]: GET http://book.yysea.com/static/novels/css/content.css  200 4441
+2017-10-21 11:23:48,413 INFO network(256) | 
+2017-10-21 11:23:48 - (network)[INFO][127.0.0.1:1392]: GET http://book.yysea.com/static/novels/js/main.js  200 5912
+2017-10-21 11:23:48,414 INFO network(256) | 
+2017-10-21 11:23:48 - (network)[INFO][127.0.0.1:1394]: GET http://book.yysea.com/static/novels/js/theme.js  200 9640
+2017-10-21 11:23:48,424 INFO network(256) | 
+2017-10-21 11:23:48 - (network)[INFO][127.0.0.1:1396]: GET http://book.yysea.com/static/novels/js/content.js  200 8068
+2017-10-21 11:23:48,425 INFO network(256) | 
+2017-10-21 11:23:48 - (network)[INFO][127.0.0.1:1398]: GET http://book.yysea.com/static/novels/img/read_bg.png  200 1175
+2017-10-21 11:23:48,661 INFO network(256) | 
+2017-10-21 11:23:48 - (network)[INFO][127.0.0.1:1400]: GET http://book.yysea.com/static/novels/img/read_content.png  200 559
+2017-10-21 11:23:48,681 INFO network(256) | 
+2017-10-21 11:23:48 - (network)[INFO][127.0.0.1:1402]: GET http://book.yysea.com/static/novels/img/bookMark.png  200 1499
+2017-10-21 11:23:48,688 INFO network(256) | 
+2017-10-21 11:23:49 - (network)[INFO][127.0.0.1:1412]: GET http://book.yysea.com/static/novels/img/favicon.ico  200 99678
+2017-10-21 11:23:49,478 INFO network(256) | 
+2017-10-21 11:23:49,944 INFO root(69) | Task url: http://www.qu.la/book/28847/book/28847/10574511.html
+2017-10-21 11:23:49 - (network)[INFO][127.0.0.1:1406]: GET http://book.yysea.com/owllook_content?url=http://www.qu.la/book/28847/book/28847/10574511.html&chapter_url=http://www.qu.la/book/28847/&novels_name=%E8%80%81%E8%A1%B2%E8%A6%81%E8%BF%98%E4%BF%97  200 17337
+2017-10-21 11:23:49,994 INFO network(256) | 
+2017-10-21 11:23:58 - (network)[INFO][127.0.0.1:1418]: POST http://book.yysea.com/operate/login  200 12
+2017-10-21 11:23:58,523 INFO network(256) | 
+2017-10-21 11:23:58 - (network)[INFO][127.0.0.1:1420]: GET http://book.yysea.com/owllook_content?url=http://www.qu.la/book/28847//book/28847/10573436.html&name=%E7%AC%AC196%E7%AB%A0%20%E6%82%B2%E5%A4%A9%E6%82%AF%E4%BA%BA%20%E4%B8%8A&chapter_url=http://www.qu.la/book/28847/&novels_name=%E8%80%81%E8%A1%B2%E8%A6%81%E8%BF%98%E4%BF%97  200 18559
+2017-10-21 11:23:58,601 INFO network(256) | 
+2017-10-21 11:23:58 - (network)[INFO][127.0.0.1:1422]: GET http://book.yysea.com/static/novels/css/main.css  304 0
+2017-10-21 11:23:58,707 INFO network(256) | 
+2017-10-21 11:23:58 - (network)[INFO][127.0.0.1:1424]: GET http://book.yysea.com/static/novels/css/content.css  304 0
+2017-10-21 11:23:58,711 INFO network(256) | 
+2017-10-21 11:23:58 - (network)[INFO][127.0.0.1:1426]: GET http://book.yysea.com/static/novels/js/main.js  304 0
+2017-10-21 11:23:58,722 INFO network(256) | 
+2017-10-21 11:23:58 - (network)[INFO][127.0.0.1:1428]: GET http://book.yysea.com/static/novels/js/content.js  304 0
+2017-10-21 11:23:58,730 INFO network(256) | 
+2017-10-21 11:23:58 - (network)[INFO][127.0.0.1:1430]: GET http://book.yysea.com/static/novels/js/theme.js  304 0
+2017-10-21 11:23:58,731 INFO network(256) | 
+2017-10-21 11:23:58 - (network)[INFO][127.0.0.1:1432]: GET http://book.yysea.com/static/novels/img/read_bg.png  304 0
+2017-10-21 11:23:58,816 INFO network(256) | 
+2017-10-21 11:23:58 - (network)[INFO][127.0.0.1:1434]: GET http://book.yysea.com/static/novels/img/bookMark.png  304 0
+2017-10-21 11:23:58,820 INFO network(256) | 
+2017-10-21 11:23:58 - (network)[INFO][127.0.0.1:1436]: GET http://book.yysea.com/static/novels/img/read_content.png  304 0
+2017-10-21 11:23:58,825 INFO network(256) | 
+2017-10-21 11:24:05 - (network)[INFO][127.0.0.1:1450]: GET http://book.yysea.com/admin/books  200 9996
+2017-10-21 11:24:05,003 INFO network(256) | 
+2017-10-21 11:24:05 - (network)[INFO][127.0.0.1:1454]: GET http://book.yysea.com/admin/static/novels/css/main.css  200 2791
+2017-10-21 11:24:05,091 INFO network(256) | 
+2017-10-21 11:24:05 - (network)[INFO][127.0.0.1:1452]: GET http://book.yysea.com/admin/static/novels/css/result.css  200 1404
+2017-10-21 11:24:05,091 INFO network(256) | 
+2017-10-21 11:24:05 - (network)[INFO][127.0.0.1:1458]: GET http://book.yysea.com/admin/static/novels/js/main.js  200 5912
+2017-10-21 11:24:05,094 INFO network(256) | 
+2017-10-21 11:24:05 - (network)[INFO][127.0.0.1:1456]: GET http://book.yysea.com/admin/static/novels/img/logo_search.png  200 6897
+2017-10-21 11:24:05,094 INFO network(256) | 
+2017-10-21 11:24:05 - (network)[INFO][127.0.0.1:1460]: GET http://book.yysea.com/admin/static/novels/js/books.js  200 915
+2017-10-21 11:24:05,098 INFO network(256) | 
+2017-10-21 11:24:05 - (network)[INFO][127.0.0.1:1462]: GET http://book.yysea.com/admin/static/novels/img/favicon.ico  200 99678
+2017-10-21 11:24:05,306 INFO network(256) | 
+2017-10-21 11:24:07 - (network)[INFO][127.0.0.1:1464]: GET http://book.yysea.com/owllook_content?url=http://www.qu.la/book/28847//book/28847/10573436.html&name=%E7%AC%AC196%E7%AB%A0%20%E6%82%B2%E5%A4%A9%E6%82%AF%E4%BA%BA%20%E4%B8%8A&chapter_url=http://www.qu.la/book/28847/&novels_name=%E8%80%81%E8%A1%B2%E8%A6%81%E8%BF%98%E4%BF%97  200 18559
+2017-10-21 11:24:07,125 INFO network(256) | 
+2017-10-21 11:24:07 - (network)[INFO][127.0.0.1:1466]: GET http://book.yysea.com/owllook_content?url=http://www.qu.la/book/28847/book/28847/10574511.html&chapter_url=http://www.qu.la/book/28847/&novels_name=%E8%80%81%E8%A1%B2%E8%A6%81%E8%BF%98%E4%BF%97  200 18981
+2017-10-21 11:24:07,515 INFO network(256) | 
+2017-10-21 11:24:14,867 INFO root(69) | Task url: http://www.qu.la/book/28847/book/28847/10575046.html
+2017-10-21 11:24:14 - (network)[INFO][127.0.0.1:1468]: GET http://book.yysea.com/owllook_content?url=http://www.qu.la/book/28847/book/28847/10575046.html&chapter_url=http://www.qu.la/book/28847/&novels_name=%E8%80%81%E8%A1%B2%E8%A6%81%E8%BF%98%E4%BF%97  200 19146
+2017-10-21 11:24:14,932 INFO network(256) | 
+2017-10-21 11:24:17,928 INFO root(69) | Task url: http://www.qu.la/book/28847/book/28847/10575697.html
+2017-10-21 11:24:17 - (network)[INFO][127.0.0.1:1472]: GET http://book.yysea.com/owllook_content?url=http://www.qu.la/book/28847/book/28847/10575697.html&chapter_url=http://www.qu.la/book/28847/&novels_name=%E8%80%81%E8%A1%B2%E8%A6%81%E8%BF%98%E4%BF%97  200 18592
+2017-10-21 11:24:17,983 INFO network(256) | 
